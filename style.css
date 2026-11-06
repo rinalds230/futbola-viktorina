@@ -37,9 +37,7 @@ body {
 .wrap { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
 
 .top { display: flex; justify-content: space-between; align-items: center; color: #e8f5ec; margin-bottom: 1.5rem; }
-.back { color: #e8f5ec; text-decoration: none; font-weight: 600; opacity: 0.85; }
-.back:hover { opacity: 1; }
-.best { font-size: 0.95rem; }
+.best { font-size: 0.95rem; margin-left: auto; }
 .best strong { color: var(--accent); }
 
 .card {
